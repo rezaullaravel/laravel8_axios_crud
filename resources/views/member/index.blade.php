@@ -16,7 +16,7 @@
     <div class="container" style="margin-top: 50px;">
       <div class="row">
         <div class="col-md-10 offset-md-1">
-          <h2>Laravel 8 axios crud
+          <h2 class="bg-light p-3">Laravel 8 axios crud
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addModal" style="float: right;">
               Add Member
             </button>
